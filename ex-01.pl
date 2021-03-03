@@ -8,8 +8,6 @@ b) Formule uma regra para definir filha_de.
 c) Formule uma regra recursiva para definir ancestral_de.
 
 
-
-
 %%% Fatos
 */
 homem(josé).
